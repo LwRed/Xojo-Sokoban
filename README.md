@@ -1,9 +1,9 @@
 # Xojo-Sokoban
-Portage de 5 niveaux du Jeu Sokoban sur Xojo (Xojo 2017 requis)
+Portage de plusieurs niveaux du Jeu Sokoban sur Xojo (Xojo 2017 requis)
 
 Fonctionnalités :
 - Mac et Pc
-- 8 Niveaux (possibilité d'en créer d'autres)
+- 10 Niveaux (possibilité d'en créer d'autres)
 - Plein écran 
 - Chargement automatique des niveaux au format .txt
 - Son
