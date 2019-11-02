@@ -8,3 +8,6 @@ Fonctionnalités :
 - Chargement automatique des niveaux au format .txt
 - Son
 - Musique d'ambiance
+- Animation du Personnage
+
+All assets in this package are licensed CC-BY-SA 4.0 (1001.com)
