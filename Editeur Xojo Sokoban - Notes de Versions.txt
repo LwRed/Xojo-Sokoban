@@ -1,0 +1,15 @@
+Editeur Xojo Sokoban ;)
+***
+
+v.03 du 11/11/2019
+Enregistrement par dŽfaut dans /CustomLevels
+
+v.02 du 10/11/2019
+Clarification du Code
+Supression des éléments superflus
+
+v.01 du 08/11/2019
+Fonctionnalités ajoutées : réinitialiser l'éditeur, revenir à l'éditeur
+
+v.00 du 08/11/2019
+Première version avec gestion de l'enregistrement au format Texte dans le dossier "Levels"

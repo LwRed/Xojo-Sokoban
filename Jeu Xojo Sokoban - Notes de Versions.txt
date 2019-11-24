@@ -1,0 +1,66 @@
+Xojo Sokoban ;)
+***
+
+A Faire :
+DŽbugage On/Off
+Musique On/Off
+Son On/Off
+Score
+Annulation du dernier mouvement
+
+v.034 du 11/11/2019
+Gestion des Niveaux Originaux / Niveaux PersonnalisŽs
+Bascule entre les 2 modes
+Correction de Bugs
+Ajout dans le Menu de l'option pour reprendre le Jeu
+
+v.033 du 08/11/2019
+Correction d'un Bug sur la prise en compte au score des caisses déjà placées sur l'objectif
+
+v.032 du 02/11/2019
+Titre du Jeu avec Centrage Automatique
+
+V3.1 du 01/11/2019
+Animation du Personnage quand Touche Bas active (SŽquence de 3 images)
+
+V3.0 du 01/11/2019
+La Grille peut dŽsormais avoir une taille customisŽe (Colonnes et Lignes)
+Le Niveau s'adapte et se centre ˆ l'Žcran
+
+V2.9 du 01/11/2019
+Correction de Bugs sur l'Affichage des graphismes de la Grille
+
+V2.8 du 01/11/2019
+DŽtection automatique du Nombre de Colonnes du LevelX.txt
+
+v2.7 du 01/11/2019
+DŽtection automatique du Nombre de Lignes du LevelX.txt
+
+V2.6 du 31/10/2019
+Sous MacOs, correction des bugs d'affichage du Menu
+
+v2.5 du 25/10/2019
+Sélection de la Musique Automatique
+Corrections de bugs divers (dont Limites de Grille atteintes par le joueur)
+
+v2.4 du 25/10/2019
+Ajout d'un sol de type Béton (pour future distinction sol Entrepot et Herbe)
+
+v2.3 du 24/10/2019
+Détection automatique du nombre de Niveaux dans le répertoire /Levels
+Dans le Menu, possibilité de choisir le Niveau
+
+v2.2 du 24/10/2019
+Adjonction d'un Niveau 6
+
+
+v2.1 du 24/10/2019
+Inversion de la Grille possible (Lignes, Colonnes) pour pouvoir récupérer des Niveaux sur le Net (choisir Méthode mLevelAuto90)
+
+
+
+
+A faire :
+
+Résolution
+Simplifier le JSON
