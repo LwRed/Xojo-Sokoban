@@ -1,0 +1,8 @@
+Bugs Connus
+***
+
+Sous Mac Os, le système crée des fichiers qui font bugger le Mode Custom car ce mode cherche tous les fichiers présents dans
+/CustomLevels, quels qu'ils soient.
+Si on Fichier est corrompu, le système le trouve et ne peut pas le lire donc plante...
+
+Pour résoudre : Afficher les fichiers cachés du système et les supprimer
