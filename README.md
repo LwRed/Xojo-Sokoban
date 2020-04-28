@@ -14,7 +14,7 @@ Fonctionnalités :
 
 + Editeur de niveaux
 
-<img src="Editeur_Windows.png" width="512">
+<img src="Editeur_Windows.png" width="640">
 
 TodDo List :
 Debugage On/Off
