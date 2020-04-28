@@ -5,11 +5,23 @@ A Faire :
 Débugage On/Off
 Musique On/Off
 Son On/Off
-Score
-Annulation du dernier mouvement
+Mode automatique pour montrer la solution
+
+v0.38 du 25/04/2020
+Gestion du retour arriere pour defaire le dernier coup
+Mise en place d'une penalite si backspace
+
+v0.37 du 18/04/2020
+Comptage du nombre de mouvements
+
+v0.36 du 16/04/2020
+Ajustement du volume des musiques, parfois trop fortes
+
+v0.35 du 17/11/2019
+Premiere gestion du score
 
 v.034 du 11/11/2019
-Gestion des Niveaux Originaux / Niveaux Personnalisés
+Gestion des Niveaux Originaux / Niveaux Personnalises
 Bascule entre les 2 modes
 Correction de Bugs
 Ajout dans le Menu de l'option pour reprendre le Jeu

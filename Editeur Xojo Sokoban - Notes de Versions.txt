@@ -1,6 +1,15 @@
 Editeur Xojo Sokoban ;)
 ***
 
+A faire :
+Charger un niveau pour pouvoir le modifier
+
+v0.05 du 24/03/2020
+Corrections de bugs
+
+v0.04 du 18/04/2020
+Mode Windowed pour pouvoir creer des niveaux inspires du jeu original plus facilement
+
 v.03 du 11/11/2019
 Enregistrement par défaut dans /CustomLevels
 
