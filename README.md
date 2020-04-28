@@ -16,4 +16,11 @@ Fonctionnalités :
 
 <img src="Editeur_Windows.png" width="512">
 
+TodDo List :
+Debugage On/Off
+Musique On/Off
+Son On/Off
+Mode automatique pour montrer la solution
+
+Rermerciements et Licence
 All assets in this package are licensed CC-BY-SA 4.0 (1001.com)
