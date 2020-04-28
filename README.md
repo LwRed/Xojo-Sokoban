@@ -14,4 +14,6 @@ Fonctionnalités :
 
 + Editeur de niveaux
 
+<img src="Editeur_Windows.png" width="512">
+
 All assets in this package are licensed CC-BY-SA 4.0 (1001.com)
