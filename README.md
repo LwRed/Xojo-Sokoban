@@ -1,4 +1,4 @@
-# Xojo-Sokoban
+# Xojo - Jeu Sokoban // Sokoban Game
 Portage de plusieurs niveaux du Jeu Sokoban sur Xojo (Xojo 2017 requis)
 
 Fonctionnalités :
