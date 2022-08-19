@@ -19,8 +19,6 @@ Mode automatique pour montrer la solution
 
 + Jeu
 <img src="MacOs.png" width="640">
-Si vous aimez mes programmes, <a href="https://www.paypal.com/donate/?hosted_button_id=GY5LTDDPZ2HZG"> vous pouvez faire un don PayPal ;)</a>
-
 
 + Editeur de niveaux
 <img src="Editeur_Windows.png" width="640">
